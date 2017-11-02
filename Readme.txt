@@ -1,4 +1,4 @@
-mywebapp/  		 <-- 根目录
+mywebapp/  		 		 <-- 根目录
 |
 +- backup/               <-- 备份目录
 |
